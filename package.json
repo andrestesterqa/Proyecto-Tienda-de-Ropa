@@ -1,0 +1,19 @@
+{
+  "name": "projectcypresstienda",
+  "version": "1.0.0",
+  "description": "Proyecto de pruebas con Cypres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "cypress"
+  ],
+  "author": "Andres Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  }
+}
