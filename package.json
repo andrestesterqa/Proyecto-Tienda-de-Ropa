@@ -13,11 +13,12 @@
   ],
   "author": "Andres Hernandez",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^7.4.0"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/andrestesterqa/Proyecto-Tienda-de-Ropa"
+  },
+  "devDependencies": {
+    "cypress": "^8.5.0"
   }
 }
