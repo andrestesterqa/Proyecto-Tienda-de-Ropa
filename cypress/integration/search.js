@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 
-describe("Searh elements", function () {
+describe("Search elements", function () {
     beforeEach(function () {
         cy.visit('/')
     })
