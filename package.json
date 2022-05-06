@@ -19,6 +19,6 @@
     "url": "https://github.com/andrestesterqa/Proyecto-Tienda-de-Ropa"
   },
   "devDependencies": {
-    "cypress": "^8.5.0"
+    "cypress": "^9.2.0"
   }
 }

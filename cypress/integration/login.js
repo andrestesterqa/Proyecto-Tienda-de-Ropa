@@ -9,6 +9,6 @@ describe("Login", function () {
             cy.get(login.incorrectLoginLabel).should('contain', 'Invalid email address')
 
         })
-        
+         
     })
 })
